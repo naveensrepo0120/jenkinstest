@@ -1,5 +1,3 @@
-#!/bin/bash
-set -e
 read current_time
 start_time="8"
 #current_time="9"
