@@ -1,3 +1,3 @@
 echo "What's your name?"
-read name
+name = Naveen
 echo "Hello, $name! Nice to meet you."
