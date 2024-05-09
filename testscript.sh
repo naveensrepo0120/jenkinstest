@@ -1,3 +1,3 @@
 echo "What's your name?"
-name = Naveen
+name=Naveen
 echo "Hello, $name! Nice to meet you."
